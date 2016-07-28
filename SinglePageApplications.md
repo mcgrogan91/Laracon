@@ -13,7 +13,7 @@ vue-cli
 * Client side rendering
 * Allows for transitions
 
-# Vuex
+### Vuex
 
 * State management solution
 * Stores state in a separate location
