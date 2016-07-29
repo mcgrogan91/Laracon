@@ -17,7 +17,7 @@ Provides API help out of the box. API versioning, rate limiting middleware, auth
 
 ### Swagger / OpenAPI
 
-http://swagger.io/ / http://openapi.org
+http://swagger.io/ / https://openapis.org/
 
 Way to describe your API, has a large ecosystem
 
