@@ -1,5 +1,7 @@
 # Taylor Otwell - Laravel 5.3 Overview
 
+[Watch the talk online](https://streamacon.com/video/laracon-us/taylor-otwell-laravel-53-overview)
+
 * Released in a week or two.  Code released soon
 * Routes now have web, api
 * Webpack replaces browserify in elixer build
